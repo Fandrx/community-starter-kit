@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+It is Fandrx's first project and welcome
 
 ## What it does
 
-FEATURES PLACEHOLDER
+The guide says this is a readme file, which will introduce my project to you
 
 ## Getting started
 
